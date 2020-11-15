@@ -1,0 +1,9 @@
+[submodule "3pp/myNet"]
+	path = 3pp/myNet
+	url = git@github.com:NorwayLobster/myNet.git
+[submodule "3pp/threadpool"]
+	path = 3pp/threadpool
+	url = git@github.com:NorwayLobster/myThread.git
+[submodule "3pp/utilities"]
+	path = 3pp/utilities
+	url = git@github.com:NorwayLobster/utilities.git
